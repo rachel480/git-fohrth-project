@@ -1,3 +1,3 @@
 const A=(a,b)=>{
-    return a*b
+    console.log(a-b)
 }
