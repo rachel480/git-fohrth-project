@@ -1,3 +1,3 @@
 const A=(a,b)=>{
-    console.log(a-b)
+    alert(a-b)
 }
